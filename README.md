@@ -31,7 +31,7 @@ Skin cancer is among the most common cancers worldwide, and early detection sign
 │   └── last.pt                # Final-epoch checkpoint (includes optimizer state, for resuming training)
 ├── EvalMedia/                # Sample images for testing inference
 ├── results/                  # Training metrics and evaluation plots
-├── inference video/           # Sample inference demo video
+├── inference video           # Sample inference demo video
 └── requirements.txt
 ```
 
