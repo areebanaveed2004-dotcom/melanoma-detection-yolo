@@ -28,7 +28,7 @@ Skin cancer is among the most common cancers worldwide, and early detection sign
 │   └── utils.py             # Helper utilities
 ├── EvalMedia/                # Sample images for testing inference
 ├── results/                  # Training metrics and evaluation plots
-├── inference video/           # Sample inference demo video
+├── inference video           # Sample inference demo video
 └── requirements.txt
 ```
 
